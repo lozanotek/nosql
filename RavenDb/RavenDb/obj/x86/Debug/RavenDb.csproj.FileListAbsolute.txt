@@ -1,0 +1,8 @@
+C:\git\github\lozanotek\NoSQL\RavenDb\RavenDb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\git\github\lozanotek\NoSQL\RavenDb\RavenDb\bin\Debug\RavenDemo.exe.config
+C:\git\github\lozanotek\NoSQL\RavenDb\RavenDb\bin\Debug\RavenDemo.exe
+C:\git\github\lozanotek\NoSQL\RavenDb\RavenDb\bin\Debug\RavenDemo.pdb
+C:\git\github\lozanotek\NoSQL\RavenDb\RavenDb\bin\Debug\Raven.Client.Lightweight.dll
+C:\git\github\lozanotek\NoSQL\RavenDb\RavenDb\obj\x86\Debug\RavenDemo.exe
+C:\git\github\lozanotek\NoSQL\RavenDb\RavenDb\obj\x86\Debug\RavenDemo.pdb
+C:\git\github\lozanotek\NoSQL\RavenDb\RavenDb\bin\Debug\Newtonsoft.Json.dll
