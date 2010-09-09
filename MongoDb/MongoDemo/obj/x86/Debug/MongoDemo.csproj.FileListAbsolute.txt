@@ -1,8 +1,0 @@
-C:\git\github\lozanotek\NoSQL\MongoDemo\MongoDemo\bin\Debug\MongoDemo.exe
-C:\git\github\lozanotek\NoSQL\MongoDemo\MongoDemo\bin\Debug\MongoDemo.pdb
-C:\git\github\lozanotek\NoSQL\MongoDemo\MongoDemo\bin\Debug\Norm.dll
-C:\git\github\lozanotek\NoSQL\MongoDemo\MongoDemo\bin\Debug\Norm.pdb
-C:\git\github\lozanotek\NoSQL\MongoDemo\MongoDemo\bin\Debug\Norm.xml
-C:\git\github\lozanotek\NoSQL\MongoDemo\MongoDemo\obj\x86\Debug\ResolveAssemblyReference.cache
-C:\git\github\lozanotek\NoSQL\MongoDemo\MongoDemo\obj\x86\Debug\MongoDemo.exe
-C:\git\github\lozanotek\NoSQL\MongoDemo\MongoDemo\obj\x86\Debug\MongoDemo.pdb
